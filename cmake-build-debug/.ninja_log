@@ -1,0 +1,10 @@
+# ninja log v5
+1	1306	1710299790749548254	CMakeFiles/Dungeon_game_terminal.dir/Game.cpp.o	139e041fcd78d8bb
+4	920	1710300253061762911	CMakeFiles/Dungeon_game_terminal.dir/WorldMap.cpp.o	d37942ff91d0db1d
+1	697	1710299790143233097	CMakeFiles/Dungeon_game_terminal.dir/WordsRecognition.cpp.o	73d8e8ff470d2567
+2	692	1710299790137013259	CMakeFiles/Dungeon_game_terminal.dir/RoomAbs.cpp.o	333ce2862c11a1d3
+0	106	1710301716329002467	build.ninja	b3968c869dfa485b
+3	823	1710301717158044252	CMakeFiles/Dungeon_game_terminal.dir/WordsRecognition.cpp.o	54b55682c366500
+3	825	1710301717159900217	CMakeFiles/Dungeon_game_terminal.dir/RoomAbs.cpp.o	fbf138051adc97d4
+3	1420	1710301717756851057	CMakeFiles/Dungeon_game_terminal.dir/Game.cpp.o	e621c7bd14b17478
+3	994	1710301791918579238	CMakeFiles/Dungeon_game_terminal.dir/WorldMap.cpp.o	71f6a20f30a962cb
